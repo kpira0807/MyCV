@@ -40,7 +40,7 @@ class DataStorage {
                 Experience(name: "• Shell", about: "Basic skills")],
             image: #imageLiteral(resourceName: "TL")),
         Categories(
-            title: "Technical summury",
+            title: "Technical summary",
             item: [
                 Experience(name: "• Libraries and technologies", about: "Design Patterns, iOS SDK, UIKit, multithread application development"),
                 Experience(name: "• Development tools", about: "Xcode, Git, CS Adobe Photoshop, Jira, Trello")],
