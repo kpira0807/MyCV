@@ -37,7 +37,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="PhotoForCV" translatesAutoresizingMaskIntoConstraints="NO" id="q6g-Xo-2R4">
-                                <rect key="frame" x="132" y="98" width="150" height="150"/>
+                                <rect key="frame" x="132" y="98" width="150" height="150.00000000000023"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="150" id="8tA-0d-HlQ"/>
                                     <constraint firstAttribute="height" constant="150" id="iGl-rO-jtk"/>

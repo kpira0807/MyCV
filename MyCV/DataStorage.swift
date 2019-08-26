@@ -40,7 +40,7 @@ class DataStorage {
                 Experience(name: "• Shell", about: "Basic skills")],
             image: #imageLiteral(resourceName: "TL")),
         Categories(
-            title: "Technical summary",
+            title: "Technical summury",
             item: [
                 Experience(name: "• Libraries and technologies", about: "Design Patterns, iOS SDK, UIKit, multithread application development"),
                 Experience(name: "• Development tools", about: "Xcode, Git, CS Adobe Photoshop, Jira, Trello")],
@@ -49,7 +49,11 @@ class DataStorage {
             title: "SWIFT projects",
             item: [
                 Experience(name: "• Dogs App", about: "Tools and technologies: UIKit, UITableView, UICollectionView, UITabbarViewController"),
-                Experience(name: "• Cat Facts App", about: "Tools and technologies: UIKit, UITableView, UIActivityIndicatorView, UIAlertController, Alamofire, UserDefaults")],
+                Experience(name: "• Cat Facts App", about: "Tools and technologies: UIKit, UITableView, UIActivityIndicatorView, UIAlertController, Alamofire, UserDefaults"),
+                Experience(name: "• Test Assignment", about: "Tools and technologies: UIKit, UITableView, UIActivityIndicatorView, UIAlertController, Alamofire, UIViewController"),
+                Experience(name: "• Notes", about: "Tools and technologies: UIKit, UITableView, UIViewController, UIAlertController"),
+                Experience(name: "• ToDoList", about: "Tools and technologies: UIKit, UITableView, UIAlertController, CoreData"),
+                Experience(name: "• Exchange rates", about: "Tools and technologies: UIKit, UITableView, UIAlertController, Alamofire, UIViewController")],
             image: #imageLiteral(resourceName: "Experience")),
         Categories(
             title: "Work experience",
@@ -64,7 +68,7 @@ class DataStorage {
                                     Department: Heat and Power Engineering,
                                     Energy technician
                                     """),
-                Experience(name: "• Master’s degree (2017 – to May 2019)", about: """
+                Experience(name: "• Master’s degree (2017–2019)", about: """
                                     National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
                                     Department: Heat and Power Engineering,
                                     Energy engineer
