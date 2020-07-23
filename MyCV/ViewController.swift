@@ -12,10 +12,7 @@ class ViewController: UIViewController {
         
         extraTable.delegate = self
         extraTable.dataSource = self
-        
-        navigationController?.navigationBar.barTintColor = UIColor.newOrange
-        navigationController?.navigationBar.titleTextAttributes = [.foregroundColor: UIColor.newWhite]
-        
+
         photoForCV.layer.cornerRadius = photoForCV.frame.size.width / 2
         photoForCV.clipsToBounds = true
         
